@@ -1,6 +1,6 @@
 # chef-ssl-meta
 
-** This cookbook is currently under development **
+**This cookbook is currently under development!**
 
 ## Description
 
@@ -16,7 +16,7 @@ A cookbook for other cookbooks (hence *meta*) to transparently support different
 
 ## Related Work
 
-* [https://github.com/VendaTech/chef-cookbook-ssl](https://github.com/VendaTech/chef-cookbook-ssl)
+* [https://github.com/VendaTech/chef-cookbook-ssl](https://github.com/VendaTech/chef-cookbook-ssl) (most sophisticated, requires chef-server :S)
 * [http://community.opscode.com/cookbooks/certificate](http://community.opscode.com/cookbooks/certificate)
 * [http://community.opscode.com/cookbooks/ssl](http://community.opscode.com/cookbooks/ssl) (no docs)
 
